@@ -58,8 +58,8 @@ namespace Nudge
             this.label1.Click += new System.EventHandler(StopNudging);
             this.label1.DoubleClick += new System.EventHandler(StartStopListener);
 
-            this.BackColor = System.Drawing.Color.Black;
-            this.ForeColor = System.Drawing.Color.Green;
+            this.BackColor = System.Drawing.ColorTranslator.FromHtml("#3F51B5");
+            this.ForeColor = System.Drawing.Color.White;
 
             nudge = new SoundPlayer();
             nudge.Stream = Properties.Resources.Alarm04;
