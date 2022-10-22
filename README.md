@@ -13,7 +13,7 @@ By default the listener will be in off state, double click anywhere on the appli
 
 To stop the listener, double click again.
 
-![Nudge 3 Listening](https://user-images.githubusercontent.com/72061169/197333687-98b4afc5-58c3-4653-91e6-535100c0e2f3.png)
+![Nudge 3 Listening](https://user-images.githubusercontent.com/72061169/197334250-ddf3f5d5-25ad-4929-a9ef-1f24b8ab09cf.png)
 
 If there is any notification, the application will start nudging (alarm) until the user single/double clicks.
 1. Single click will stop nudging but keep listening for new notification.
